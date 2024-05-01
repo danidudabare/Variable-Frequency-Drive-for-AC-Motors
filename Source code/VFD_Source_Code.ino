@@ -180,10 +180,7 @@ void Pot_Switch_State_Check()
 }
 
 
-/* Button_Click(): Detects a button click. Determines if it was a short click:
-   switch between configuration if multiple are available or alter the configuration.
-   Or a long click: Enables and disables the ability to alter the configuration.
-*/
+
 void Button_Click()
 {
   if (BUTTON_IS_PRESSED)
