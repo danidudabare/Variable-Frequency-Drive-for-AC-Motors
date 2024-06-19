@@ -1,0 +1,17 @@
+DRC Rules Export File for PCB: D:\Motor Drive Repository\1 - TIDA\TIDA-01349\Design\Altium\TIDA-01349_PCB.PcbDoc
+RuleKind=Clearance|RuleName=DC_BUS_NEG|Scope=Board|Minimum=120.00
+RuleKind=Clearance|RuleName=outline to keepout|Scope=Board|Minimum=20.00
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.00
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing_ThermalPadVias|Scope=Board|Minimum=5.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_FiducialMark|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=Clearance_Poly|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_Keepouts|Scope=Board|Minimum=0.00
+RuleKind=Width|RuleName=PWR|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=All|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=DC_BUS_POS|Scope=Board|Minimum=120.00
+RuleKind=Clearance|RuleName=Phase_u|Scope=Board|Minimum=120.00
+RuleKind=Clearance|RuleName=PHASE_V|Scope=Board|Minimum=120.00
+RuleKind=Clearance|RuleName=PHASE_W|Scope=Board|Minimum=120.00
