@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=+5V Pin=R1-2
+Change Net Name : Old Net Name=Iso_HIn_U New Net Name=uC_Iso_HIn_U
+Change Net Name : Old Net Name=Iso_HIn_V New Net Name=uC_Iso_HIn_V
+Change Net Name : Old Net Name=Iso_HIn_W New Net Name=uC_Iso_HIn_W
+Change Net Name : Old Net Name=Iso_LIn_U New Net Name=uC_Iso_LIn_U
+Change Net Name : Old Net Name=Iso_LIn_V New Net Name=uC_Iso_LIn_V
+Change Net Name : Old Net Name=Iso_LIn_W New Net Name=uC_Iso_LIn_W
+Added Member To Class: ClassName=MCU Circuit Member=Component C3 100nF
+Added Member To Class: ClassName=MCU Circuit Member=Component C5 22pF

@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=OUT_W Pin=J2-1
+Removed Pin From Net: NetName=OUT_V Pin=J2-2
+Removed Pin From Net: NetName=OUT_U Pin=J2-3
+Added Component: Designator=F1(FUSC6125X279N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "0679H8000-05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0679h8000-05/bel-group?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.ec/datasheet/2/643/ds_cp_0679h_series-1290853.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.79mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bel Circuit Protection"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0679H8000-05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=F2(FUSC6125X279N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "0679H8000-05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0679h8000-05/bel-group?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.ec/datasheet/2/643/ds_cp_0679h_series-1290853.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.79mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bel Circuit Protection"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0679H8000-05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=F3(FUSC6125X279N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "0679H8000-05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0679h8000-05/bel-group?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.ec/datasheet/2/643/ds_cp_0679h_series-1290853.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.79mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bel Circuit Protection"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0679H8000-05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OUT_W Pin=F1-1
+Added Pin To Net: NetName=OUT_V Pin=F2-1
+Added Pin To Net: NetName=OUT_U Pin=F3-1
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Pin To Net: NetName=NetF1_2 Pin=J2-1
+Added Net: Name=NetF1_2
+Added Pin To Net: NetName=NetF2_2 Pin=F2-2
+Added Pin To Net: NetName=NetF2_2 Pin=J2-2
+Added Net: Name=NetF2_2
+Added Pin To Net: NetName=NetF3_2 Pin=F3-2
+Added Pin To Net: NetName=NetF3_2 Pin=J2-3
+Added Net: Name=NetF3_2
+Added Member To Class: ClassName=IPM Circuit Member=Component F1 0679H8000-05
+Added Member To Class: ClassName=IPM Circuit Member=Component F2 0679H8000-05
+Added Member To Class: ClassName=IPM Circuit Member=Component F3 0679H8000-05

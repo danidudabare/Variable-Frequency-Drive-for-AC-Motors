@@ -1,0 +1,143 @@
+Protel Design System Design Rule Check
+PCB File : D:\MORA ACA\4th SEM\EN2160 - Electronic Design Realization\1. Jayasinghe Sir\VFD PCB Designs\IPM Circuit\IPM Circuit.PcbDoc
+Date     : 4/17/2024
+Time     : 7:36:09 PM
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.3mm) (Max=4mm) (Preferred=0.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (InPadClass('PowerPads'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.3mm) (Conductor Width=0.203mm) (Air Gap=0.203mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.076mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=6.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.25mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.127mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=1816.048mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Waived Violations Of Rule : Un-Routed Net Constraint ( (All) )
+   Waived Violation between Un-Routed Net Constraint: Via (39mm,29mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (39mm,30.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (39mm,32mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (39mm,33.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (39mm,35mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (39mm,36.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (39mm,38mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (39mm,39.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (39mm,41mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (39mm,42.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (39mm,44mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (39mm,45.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (39mm,47mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (39mm,48.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (39mm,50mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (39mm,51.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (45.75mm,35.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (45mm,37mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (45mm,38.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (45mm,40mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (45mm,41.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (45mm,43mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (45mm,44.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (45mm,46mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (45mm,47.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (45mm,49mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (45mm,50.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (45mm,52mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (45mm,53.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (45mm,55mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (45mm,56.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (45mm,58mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (45mm,59.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (46.5mm,37mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (46.5mm,38.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (46.5mm,40mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (46.5mm,41.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (46.5mm,43mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (46.5mm,44.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (46.5mm,46mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (46.5mm,47.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (46.5mm,49mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (46.5mm,50.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (46.5mm,52mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (46.5mm,53.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (46.5mm,55mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:08:01 PM
+   Waived Violation between Un-Routed Net Constraint: Via (46.5mm,56.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (46.5mm,58mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (46.5mm,59.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (47mm,34.25mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (48mm,35.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (48mm,37mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (48mm,38.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (48mm,40mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (48mm,41.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (48mm,43mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (48mm,44.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (48mm,46mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (48mm,47.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (48mm,49mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (48mm,50.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (48mm,52mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (48mm,53.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (48mm,55mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (48mm,56.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (48mm,58mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (48mm,59.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (49.5mm,37mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (49.5mm,38.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (49.5mm,40mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (49.5mm,41.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (49.5mm,43mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (49.5mm,44.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (49.5mm,46mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (49.5mm,47.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (49.5mm,49mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (49.5mm,50.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (49.5mm,52mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (49.5mm,53.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (49.5mm,55mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (49.5mm,56.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (49.5mm,58mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+   Waived Violation between Un-Routed Net Constraint: Via (49.5mm,59.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Danidu Dabare at 4/17/2024 3:07:50 PM
+Waived Violations :83
+
+
+Violations Detected : 0
+Waived Violations : 83
+Time Elapsed        : 00:00:01

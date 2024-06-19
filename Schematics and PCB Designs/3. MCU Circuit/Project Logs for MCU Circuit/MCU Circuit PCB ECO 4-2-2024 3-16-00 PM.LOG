@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=Iso_HIn_U Pin=J1-1
+Removed Pin From Net: NetName=Iso_LIn_U Pin=J1-2
+Removed Pin From Net: NetName=Iso_HIn_W Pin=J1-5
+Removed Pin From Net: NetName=Iso_LIn_W Pin=J1-6
+Added Pin To Net: NetName=Iso_HIn_W Pin=J1-1
+Added Pin To Net: NetName=Iso_LIn_W Pin=J1-2
+Added Pin To Net: NetName=Iso_HIn_U Pin=J1-5
+Added Pin To Net: NetName=Iso_LIn_U Pin=J1-6
+Added Member To Class: ClassName=MCU Circuit Member=Component C3 100nF
+Added Member To Class: ClassName=MCU Circuit Member=Component C5 22pF

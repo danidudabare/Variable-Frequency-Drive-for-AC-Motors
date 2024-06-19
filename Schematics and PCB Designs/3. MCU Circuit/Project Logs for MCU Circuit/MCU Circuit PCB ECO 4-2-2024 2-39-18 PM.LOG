@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=NetC5_1 Pin=C5-1
+Removed Pin From Net: NetName=LIn_W Pin=U1-1
+Removed Pin From Net: NetName=DIO2 Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=+5V Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U1-5
+Removed Pin From Net: NetName=+5V Pin=U1-6
+Removed Pin From Net: NetName=NetC5_1 Pin=U1-7
+Removed Pin From Net: NetName=LIn_U Pin=U1-9
+Removed Pin From Net: NetName=HIn_U Pin=U1-10
+Removed Pin From Net: NetName=CLK2 Pin=U1-11
+Removed Pin From Net: NetName=Relay_CMD Pin=U1-12
+Removed Pin From Net: NetName=HIn_V Pin=U1-13
+Removed Pin From Net: NetName=LIn_V Pin=U1-14
+Removed Pin From Net: NetName=HIn_W Pin=U1-15
+Removed Pin From Net: NetName=CLK1 Pin=U1-16
+Removed Pin From Net: NetName=+5V Pin=U1-18
+Removed Pin From Net: NetName=GND Pin=U1-21
+Removed Pin From Net: NetName=Pot_In Pin=U1-26
+Removed Pin From Net: NetName=RESET Pin=U1-29
+Removed Pin From Net: NetName=DIO1 Pin=U1-32
+Removed Pin From Net: NetName=NetC5_1 Pin=Y1-1
+Removed Member From Class: ClassName=MCU Circuit Member=C6
+Change Component Footprint: Designator=U1 Old Footprint=32A_M New Footprint=28P3
+Change Component Comment : Designator=U1 Old Comment=ATmega328P-AU New Comment=ATmega328-PU
+Change Component Designator: OldDesignator=C4 NewDesignator=C3
+Change Component Designator: OldDesignator=C5 NewDesignator=C4
+Change Component Designator: OldDesignator=C6 NewDesignator=C5
+Change Managed Component Library Link : Designator=U1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=56502755-F026-40EB-BCF0-36AE7BFC5A49 New ItemGUID=240726CD-1480-457C-A0C8-53CCD23F9AA6 Old RevisionGUID=240D5CCC-FCC4-45D4-8C62-91D49B903782 New RevisionGUID=1E98A313-B40B-4713-92DE-944CD942B233
+Change component parameters: Designator = "U1" ("U1"); Footprint = "32A_M"; UniqueID = "\LWWAYWFF" ("\LWWAYWFF")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.atmel.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "ATmega48A/48PA/88A/88PA/168A/168PA/328/328P Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.atmel.com/dyn/resources/prod_documents/8271.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "ATmega48A/48PA/88A/88PA/168A/168PA/328/328P Summary"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.atmel.com/dyn/resources/prod_documents/8271S.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "revD, May-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "28-lead (0.300"/7.62mm Wide) Plastic Dual Inline Package (PDIP)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "28P3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "revB, Sep-2001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RevisionNote"; Value = "DatasheetVersion updated. URLs added."; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=RESET Pin=U1-1
+Added Pin To Net: NetName=DIO1 Pin=U1-4
+Added Pin To Net: NetName=LIn_W Pin=U1-5
+Added Pin To Net: NetName=DIO2 Pin=U1-6
+Added Pin To Net: NetName=+5V Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=NetC5_1 Pin=U1-9
+Added Pin To Net: NetName=LIn_U Pin=U1-11
+Added Pin To Net: NetName=HIn_U Pin=U1-12
+Added Pin To Net: NetName=CLK2 Pin=U1-13
+Added Pin To Net: NetName=Relay_CMD Pin=U1-14
+Added Pin To Net: NetName=HIn_V Pin=U1-15
+Added Pin To Net: NetName=LIn_V Pin=U1-16
+Added Pin To Net: NetName=HIn_W Pin=U1-17
+Added Pin To Net: NetName=CLK1 Pin=U1-18
+Added Pin To Net: NetName=+5V Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U1-22
+Added Pin To Net: NetName=Pot_In Pin=U1-25
+Added Pin To Net: NetName=NetC5_1 Pin=Y1-2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=U1-19
+Added Pin To Net: NetName=NetC4_1 Pin=Y1-1
+Added Net: Name=NetC4_1

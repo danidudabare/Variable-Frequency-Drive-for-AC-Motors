@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [IPM Circuit.PrjPcb]
+   Generated File[IPM Circuit.TXT]
+   Generated File[IPM Circuit.LDP]
+   Generated File[IPM Circuit.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:52:00 PM On 4/17/2024

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=TEMP Pin=C13-2
+Removed Pin From Net: NetName=TEMP Pin=IC1-15
+Removed Pin From Net: NetName=TEMP Pin=P2-1
+Removed Pin From Net: NetName=TEMP Pin=R9-1
+Change Component Footprint: Designator=J2 Old Footprint=691101710003 New Footprint=691101710003
+Change Net Name : Old Net Name=TEMP New Net Name=NetIC1_20
+Added Pin To Net: NetName=TEMP Pin=C13-2
+Added Pin To Net: NetName=TEMP Pin=IC1-15
+Added Pin To Net: NetName=TEMP Pin=P2-1
+Added Pin To Net: NetName=TEMP Pin=R9-1
+Added Net: Name=TEMP
