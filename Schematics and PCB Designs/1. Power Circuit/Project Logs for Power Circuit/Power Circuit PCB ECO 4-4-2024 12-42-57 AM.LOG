@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=P2-2
+Removed Pin From Net: NetName=Relay_CMD Pin=P2-3
+Change Component Footprint: Designator=DS2 Old Footprint=WL-TMRC_D5.9H8.7 New Footprint=WL-TMRC_D5.9H8.7
+Added Pin To Net: NetName=Relay_CMD Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-3

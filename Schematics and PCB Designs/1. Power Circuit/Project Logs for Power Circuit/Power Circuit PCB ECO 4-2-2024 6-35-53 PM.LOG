@@ -1,0 +1,11 @@
+Added Component: Designator=P3(JST_B2B-XH-A)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'JST Sales America Inc.'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B2B-XH-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D1-NEG
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=+5V Pin=P3-2
+Added Member To Class: ClassName=Power Circuit Member=Component P3 B2B-XH-A

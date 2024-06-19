@@ -1,0 +1,224 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=DC_Bus Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=DC_Bus Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=DC_Bus Pin=C3-2
+Removed Pin From Net: NetName=AC_OUT_N Pin=D1-AC1
+Removed Pin From Net: NetName=AC_OUT_L Pin=D1-AC2
+Removed Pin From Net: NetName=GND Pin=D1-NEG
+Removed Pin From Net: NetName=Relay_In Pin=D1-POS
+Removed Pin From Net: NetName=GND Pin=J2-1
+Removed Pin From Net: NetName=DC_Bus Pin=J2-2
+Removed Pin From Net: NetName=+15V Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=P1-2
+Removed Pin From Net: NetName=+5V Pin=P1-3
+Removed Pin From Net: NetName=+5V Pin=P2-1
+Removed Pin From Net: NetName=Relay_CMD Pin=P2-2
+Removed Pin From Net: NetName=GND Pin=P2-3
+Removed Pin From Net: NetName=+5V Pin=P3-1
+Removed Pin From Net: NetName=GND Pin=P3-2
+Removed Pin From Net: NetName=AC_OUT_N Pin=PS2-2
+Removed Pin From Net: NetName=GND Pin=PS2-4
+Removed Pin From Net: NetName=+5V Pin=PS2-5
+Removed Member From Class: ClassName=Power Circuit Member=D4
+Removed Member From Class: ClassName=Power Circuit Member=P1
+Removed Member From Class: ClassName=Power Circuit Member=P2
+Removed Member From Class: ClassName=Power Circuit Member=P3
+Change Component Footprint: Designator=C1 Old Footprint=FP-SMQ-R40-MFG New Footprint=CAPPRD1000W190D3050H3200
+Change Component Footprint: Designator=C2 Old Footprint=FP-SMQ-R40-MFG New Footprint=CAPPRD1000W190D3050H3200
+Change Component Footprint: Designator=C3 Old Footprint=FP-SMQ-R40-MFG New Footprint=CAPPRD1000W190D3050H3200
+Change Component Footprint: Designator=PS2 Old Footprint=PSK5D5 New Footprint=RAC05E05SKT
+Change Component Footprint: Designator=R5 Old Footprint=RESA60-630X240 New Footprint=RESC3225X70N
+Change Component Footprint: Designator=J2 Old Footprint=TECO-282836-2_V New Footprint=JST_B3B-XH-A (LF)(SN)
+Change Component Comment : Designator=C1 Old Comment=330uF/400V New Comment=330uF/450V
+Change Component Comment : Designator=C2 Old Comment=330uF/400V New Comment=330uF/450V
+Change Component Comment : Designator=C3 Old Comment=330uF/400V New Comment=330uF/450V
+Change Component Comment : Designator=J2 Old Comment=282836-2 New Comment=B3B-XH-A_(LF)(SN)
+Change Component Comment : Designator=PS2 Old Comment=PSK-5D-5 New Comment=RAC05E-05SKT
+Change Component Designator: OldDesignator=C4 NewDesignator=C5
+Change Component Designator: OldDesignator=C5 NewDesignator=C6
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=C7 NewDesignator=C8
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=D3 NewDesignator=D2
+Change Component Designator: OldDesignator=D4 NewDesignator=D3
+Change Component Designator: OldDesignator=DS2 NewDesignator=DS1
+Change Managed Component Library Link : Designator=C1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=1AD63091-1F26-490A-A166-8D945125FFC0 New ItemGUID= Old RevisionGUID=0181C34B-46D2-40AF-BE78-75DD54B1D4BC New RevisionGUID=
+Change Managed Component Library Link : Designator=C2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=1AD63091-1F26-490A-A166-8D945125FFC0 New ItemGUID= Old RevisionGUID=0181C34B-46D2-40AF-BE78-75DD54B1D4BC New RevisionGUID=
+Change Managed Component Library Link : Designator=C3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=1AD63091-1F26-490A-A166-8D945125FFC0 New ItemGUID= Old RevisionGUID=0181C34B-46D2-40AF-BE78-75DD54B1D4BC New RevisionGUID=
+Change Managed Component Library Link : Designator=J2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=C9495783-FFFC-46B6-B95E-4CE97DFAD08E New ItemGUID= Old RevisionGUID=DF47BFDD-E559-4BFA-862A-02055DA5A464 New RevisionGUID=
+Change Managed Component Library Link : Designator=R5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=58F7FC56-A0DD-42E6-B79F-7FF8885C42C0 New ItemGUID= Old RevisionGUID=7CA994FA-D9F6-4861-AEDE-6ADB952AD05C New RevisionGUID=
+Change component parameters: Designator = "C1" ("C1"); Footprint = "FP-SMQ-R40-MFG"; UniqueID = "\ZJBCNWYA" ("\ZJBCNWYA")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/system/files/dam/doc/product/capacitor/aluminum-electrolytic/snap-in/data_sheet/20/30/db/aec/b43647.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "32mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B43647B5337M057"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "871-B43647B5337M057"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/EPCOS-TDK/B43647B5337M057?qs=vmHwEFxEFR%2FSdH8%2FO0wcVA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "FP-SMQ-R40-MFG"; UniqueID = "\PAIFAOIX" ("\PAIFAOIX")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/system/files/dam/doc/product/capacitor/aluminum-electrolytic/snap-in/data_sheet/20/30/db/aec/b43647.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "32mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B43647B5337M057"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "871-B43647B5337M057"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/EPCOS-TDK/B43647B5337M057?qs=vmHwEFxEFR%2FSdH8%2FO0wcVA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "FP-SMQ-R40-MFG"; UniqueID = "\RQKKJLJX" ("\RQKKJLJX")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/system/files/dam/doc/product/capacitor/aluminum-electrolytic/snap-in/data_sheet/20/30/db/aec/b43647.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "32mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B43647B5337M057"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "871-B43647B5337M057"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/EPCOS-TDK/B43647B5337M057?qs=vmHwEFxEFR%2FSdH8%2FO0wcVA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J2"); Footprint = "TECO-282836-2_V"; UniqueID = "\LGPWVFZB" ("\LGPWVFZB")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B3B-XH-A%20(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "JST Sales America Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B3B-XH-A (LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B3B-XH-A%20(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "PS2" ("PS2"); Footprint = "PSK5D5"; UniqueID = "\MPGWGDLE" ("\MPGWGDLE")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RAC05E-05SKT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rac05e-05skt/recom-power?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://recom-power.com/pdf/Powerline_AC-DC/RAC05E-KT.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "22mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "RECOM Power"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RAC05E-05SKT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "919-RAC05E-05SKT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/RECOM-Power/RAC05E-05SKT?qs=7D1LtPJG0i1k%2FYw%252BRylc5g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RESA60-630X240"; UniqueID = "\FNLBEEQL" ("\FNLBEEQL")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/ERJ-T14LK102U.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-T14LK102U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-T14LK102U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-T14LK102U?qs=69hQ%2F0d5SwhjOR8VGTtd5Q%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=BR1(RDXK810_T0_00601)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.panjit.com.tw/upload/datasheet/RDXK810.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "PANJIT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RDXK810_T0_00601"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "241-RDXK810_T0_00601"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panjit/RDXK810_T0_00601?qs=pBunHO6%252BwtELvZflFp%2FYiw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C4(FP-CK06BX105K-MFG)
+Add component (AddParameter): Name = "Capacitance"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Molded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "RADIAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "2.29mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dissipation Factor"; Value = "2.5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7.37mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.3inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Diameter"; Value = "0.635mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead/Base Style"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "7.37mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Military, MIL-C-11015, CK06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.09inch"; VariantName = "[No Variations]"
+Added Component: Designator=J3(TECO-282836-2_V)
+Add component (AddParameter): Name = "3D Model"; Value = "282836-2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connectors,Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamp Material - Plating"; Value = "Brass-NickelPlated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material - Plating"; Value = "Brass-TinPlated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "13.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.te.com.cn/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Catalog+Section%7F1308389_EUROSTYLE_TERMINAL_BLOCKS%7F0607%7Fpdf%7FEnglish%7FENG_CS_1308389_EUROSTYLE_TERMINAL_BLOCKS_0607.pdf%7F282836-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dynamic Catalog"; Value = "BuchananSeries"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "TerminalBlocks-WiretoBoard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Featured Product"; Value = "EurostyleTerminalBlockConnectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Interlocking(Side)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Polyamide(PA66),Nylon6/6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.te.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Orientation"; Value = "HorizontalwithBoard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "5ULV-02B
+A98076"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "THD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.197"(5.00mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions Per Level"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Training Modules"; Value = "Wire-to-BoardEurostyleTerminalBlocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "282836-2StatementofCompliance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Screw Material - Plating"; Value = "Brass-NickelPlated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Screw Thread"; Value = "M3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Buchanan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Torque - Screw"; Value = "0.68Nm(6Lb-In)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge"; Value = "16-30AWG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Termination"; Value = "Screw-RisingCageClamp"; VariantName = "[No Variations]"
+Added Component: Designator=J4(JST_B3B-XH-A (LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B3B-XH-A%20(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales America Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B3B-XH-A (LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B3B-XH-A%20(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J5(JST_B2B-XH-A_(LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B2B-XH-A%20(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B2B-XH-A (LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B2B-XH-A%20(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Relay_In Pin=BR1-1
+Added Pin To Net: NetName=AC_OUT_L Pin=BR1-2
+Added Pin To Net: NetName=AC_OUT_N Pin=BR1-3
+Added Pin To Net: NetName=GND Pin=BR1-4
+Added Pin To Net: NetName=DC_Bus Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=DC_Bus Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=DC_Bus Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=DC_Bus Pin=C4-2
+Added Pin To Net: NetName=+15V Pin=J2-1
+Added Pin To Net: NetName=+5V Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=DC_Bus Pin=J3-2
+Added Pin To Net: NetName=+5V Pin=J4-1
+Added Pin To Net: NetName=Relay_CMD Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=+5V Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=AC_OUT_N Pin=PS2-5
+Added Pin To Net: NetName=GND Pin=PS2-7
+Added Pin To Net: NetName=+5V Pin=PS2-9
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetDS2_1 New Net Name=NetDS1_1
+Added Member To Class: ClassName=Power Circuit Member=Component BR1 RDXK810_T0_00601
+Added Member To Class: ClassName=Power Circuit Member=Component C8 150uF/16V
+Added Member To Class: ClassName=Power Circuit Member=Component J3 282836-2
+Added Member To Class: ClassName=Power Circuit Member=Component J4 B3B-XH-A_(LF)(SN)
+Added Member To Class: ClassName=Power Circuit Member=Component J5 B2B-XH-A_(LF)(SN)

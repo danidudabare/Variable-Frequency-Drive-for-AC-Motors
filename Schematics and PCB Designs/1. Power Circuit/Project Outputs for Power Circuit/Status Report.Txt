@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Power Circuit.PrjPcb]
+   Generated File[Power Circuit.TXT]
+   Generated File[Power Circuit.LDP]
+   Generated File[Power Circuit.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:49:10 PM On 4/17/2024

@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=DC_Bus_GND Pin=C1-1
+Removed Pin From Net: NetName=DC_Bus_GND Pin=C2-1
+Removed Pin From Net: NetName=DC_Bus_GND Pin=C3-1
+Removed Pin From Net: NetName=DC_Bus_GND Pin=DS1-2
+Removed Pin From Net: NetName=DC_Bus_GND Pin=J2-1
+Change Component Footprint: Designator=P1 Old Footprint=JST_B2B-XH-A New Footprint=JST-B3B-PH-K-S-3_V
+Change Component Comment : Designator=P1 Old Comment=B2B-XH-A New Comment=B3B-PH-K-S(LF)(SN)
+Change Managed Component Library Link : Designator=P1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=6C8DFDE7-42C8-4DBF-88C7-014187F1BEC7 Old RevisionGUID= New RevisionGUID=AEA4448A-31FD-4725-A6A6-E3EAF580060F
+Change component parameters: Designator = "P1" ("P1"); Footprint = "JST_B2B-XH-A"; UniqueID = "\DPBEVCBF" ("\DPBEVCBF")
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/11746/0900766b80826550-11746939.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Oct-06"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No of Positions"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Style/Orientation"; Value = "StraightHeader/Plug"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Crimp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "ShroudedHeader"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=DS1-2
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=+5V Pin=P1-3
