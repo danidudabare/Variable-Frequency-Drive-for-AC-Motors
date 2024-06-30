@@ -120,6 +120,7 @@ void setup()
                                               //Waiting this delay to let the capacitors charge up. Requires ~3 seconds.
   PORTB = (1 << PORTB0);                      //Set output pin to the relay high, to bypass the high power resistor after the caps were sufficiently charged
 }
+
 void loop()
 {   
    // Local variables
@@ -405,4 +406,11 @@ void Reverse_3_Phase()
         PORTB &= ~((1 << PORTB0) | (1 << PORTB1) | (1 << PORTB2));
         PORTD &= ~((1 << PORTD3) | (1 << PORTD5) | (1 << PORTD6));
     }
+}
+int main(void) {
+    setup();
+    while (1) {
+        loop();
+    }
+    return 0;
 }
