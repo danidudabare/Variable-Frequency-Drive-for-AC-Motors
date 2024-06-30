@@ -407,7 +407,7 @@ void Reverse_3_Phase()
         PORTD &= ~((1 << PORTD3) | (1 << PORTD5) | (1 << PORTD6));
     }
 }
-int main(void) {
+int main() {
     setup();
     while (1) {
         loop();
