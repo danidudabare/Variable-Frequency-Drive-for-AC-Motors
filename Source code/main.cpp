@@ -379,7 +379,7 @@ void Reverse_3_Phase()
         uint8_t tempIndex = Sine_Index_120;
         Sine_Index_120 = Sine_Index_240;
         Sine_Index_240 = tempIndex;
-        PORTB &= ~((1 << PORTB0) | (1 << PORTB1) | (1 << PORTB2));
+        PORTB &= ~((1 << PORTB1) | (1 << PORTB2) | (1 << PORTB3));
         PORTD &= ~((1 << PORTD3) | (1 << PORTD5) | (1 << PORTD6));
     }
 }
