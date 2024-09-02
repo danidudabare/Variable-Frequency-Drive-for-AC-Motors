@@ -22,7 +22,16 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE. */
+THE SOFTWARE. 
+
+Modifications
+The following modifications have been made to the original code:
+
+- Converted from Arduino to native AVR code.
+- Removed functions related to single-phase AC motors.
+- Added Reverse_3_Phase() function to enable reversing the rotation direction of the 3-phase AC motor.
+- Adapted display libraries from Arduino to AVR.
+*/
 
 #define F_CPU 16000000UL
 #include <stdint.h>
