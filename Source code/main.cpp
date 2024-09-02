@@ -29,7 +29,7 @@ THE SOFTWARE. */
 #include <avr/interrupt.h>
 #include <avr/io.h>
 #include <util/delay.h>
-#include "TM1637Display.h"
+#include "TM1637Display_avr.h"
 
 #define CLK1 12
 #define DIO1 2
