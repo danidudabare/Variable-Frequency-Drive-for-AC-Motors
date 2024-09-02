@@ -4,7 +4,7 @@ Original code by Matan Pazi
 Copyright (c) 2023 Matan Pazi
 
 Modifications by Lahiru Cooray
-Copyright (c) 2024 Lahiru Cooray
+Copyright (c) 2024 LahiruCooray
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
