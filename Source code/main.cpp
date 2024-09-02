@@ -31,10 +31,10 @@ THE SOFTWARE. */
 #include <util/delay.h>
 #include "TM1637Display_avr.h"
 
-#define CLK1 12
-#define DIO1 2
-#define CLK2 7
-#define DIO2 4
+#define CLK1 PORTB4
+#define DIO1 PORTB5
+#define CLK2 PORTB6
+#define DIO2 PORTB7
 #define CURR_INPUT A0
 #define POT_INPUT A2
 //
