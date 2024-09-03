@@ -2,7 +2,8 @@
 
 ## Introduction
 This project involves the design and development of a Variable Frequency Drive (VFD) for controlling the speed and torque of AC motors. The VFD adjusts the motor's input frequency and voltage, enabling precise control over motor performance in various industrial and commercial applications. This project is part of the EN2160 - Electronic Design Realization module at the University of Moratuwa.
-![Diagram of the VFD](https://github.com/LahiruCooray/VariableFrequencyDrive_Project/blob/37cd681a76083389ce04b7a403ac014a454efe62/Photos%20and%20Videos/Prototype%20-%20VFD.jpg)
+<img src="https://github.com/LahiruCooray/VariableFrequencyDrive_Project/raw/37cd681a76083389ce04b7a403ac014a454efe62/Photos%20and%20Videos/Prototype%20-%20VFD.jpg" alt="Prototype VFD" width="600"/>
+
 ## Electronic Design
 ### Power Circuit
 The Power Circuit is responsible for converting the high-voltage AC input to a stable DC output, which powers the motor and other components. Key elements include a full-wave rectifier, smoothing capacitors, and AC-DC converters. The design also incorporates a bypass relay circuit to manage inrush currents.
