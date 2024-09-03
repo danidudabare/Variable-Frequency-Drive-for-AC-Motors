@@ -22,6 +22,7 @@ The source code for this project is written in C++ and is responsible for contro
 
 ## Testing and Prototyping
 Extensive testing and prototyping were conducted to ensure the reliability and performance of the VFD. This included PCB testing for power circuits, IPM, and MCU integration, as well as real-time testing with an AC motor to verify speed and torque control. The final prototype demonstrated successful operation under various load conditions, confirming the design's effectiveness.
+![PWM Generation](https://github.com/LahiruCooray/VariableFrequencyDrive_Project/raw/df00b9ecf799b6f5d75307045a210b49fa528abd/Photos%20and%20Videos/PWM%20Generation.jpg)
 
 
 
