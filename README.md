@@ -28,7 +28,7 @@ Extensive testing and prototyping were conducted to ensure the reliability and p
 <img src="https://github.com/LahiruCooray/VariableFrequencyDrive_Project/raw/df00b9ecf799b6f5d75307045a210b49fa528abd/Photos%20and%20Videos/PWM%20Generation.jpg" alt="PWM Generation" width="600"/>
 <img src="https://github.com/LahiruCooray/VariableFrequencyDrive_Project/raw/529beeb3ae8298beb27742364bb454a75d660afb/Photos%20and%20Videos/AC-DC%20Conversion%2015V%20for%20the%20IPM.jpg" alt="AC-DC Conversion 15V for the IPM" width="600"/>
 
-<img src="https://github.com/yourusername/yourrepository/blob/main/path/to/your/image.jpg" alt="AC-DC Conversion 5V for the MCU" width="500"/>
+<img src="https://github.com/yourusername/yourrepository/blob/main/path/to/your/image.jpg" alt="AC-DC Conversion 5V for the MCU" width="600"/>
 <img src="https://github.com/LahiruCooray/VariableFrequencyDrive_Project/raw/529beeb3ae8298beb27742364bb454a75d660afb/Photos%20and%20Videos/Rctified%20Voltage%20325V%20DC%20.jpg" alt="Rectified Voltage 325V DC" width="600"/>
 
 
