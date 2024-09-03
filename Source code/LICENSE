@@ -4,7 +4,7 @@ Original code by Matan Pazi
 Copyright (c) 2023 Matan Pazi
 
 Modifications by Lahiru Cooray
-Copyright (c) 2024 Lahiru Cooray
+Copyright (c) 2024 LahiruCooray
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -23,3 +23,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+Modifications
+The following modifications have been made to the original code:
+
+Converted from Arduino to native AVR code.
+Removed functions related to single-phase AC motors.
+Added Reverse_3_Phase() function to enable reversing the rotation direction of the 3-phase AC motor.
+Adapted display libraries from Arduino to AVR.
