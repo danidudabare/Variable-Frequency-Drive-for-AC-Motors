@@ -12,6 +12,7 @@ The IPM is the heart of the VFD, combining high-speed switching IGBTs with integ
 
 ### Microcontroller Unit (MCU)
 The MCU controls the VFD operation by generating PWM signals that modulate the output frequency and voltage to the motor. It also manages system diagnostics, user input, and communication with the IPM. The MCU used in this project is the ATmega328-PU.
+![System Integration - VFD](https://github.com/LahiruCooray/VariableFrequencyDrive_Project/blob/4da9d129a2faa73fc7f958fe920dd5c11052bff0/Photos%20and%20Videos/System%20Integration%20-%20VFD.jpg)
 
 ## Enclosure Design
 The enclosure for the VFD is designed to house all the electronic components securely, providing protection against environmental factors and physical damage. The enclosure is made of ABS material, designed with both top and bottom parts that are molded to fit the internal circuits. Detailed design drawings and 3D-printed prototypes were developed to ensure proper fit and functionality.
